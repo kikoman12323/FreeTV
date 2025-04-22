@@ -1,38 +1,5 @@
 #EXTM3U
 
-Sky Cinema
-##############################################################################################################################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Movie Central",Sky Action
-http://supersonictv.live:8080/live/144264/661943/77462.ts
-
-#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Movie Central",Sky Comedy
-http://supersonictv.live:8080/live/144264/661943/77463.ts
-
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Movie Central",Sky Cinema Hits
-http://supersonictv.live:8080/live/144264/661943/77464.ts
-
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Movie Central",Sky Drama
-http://supersonictv.live:8080/live/144264/661943/77465.ts
-
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png" group-title="Movie Central",Sky Family
-http://supersonictv.live:8080/live/144264/661943/77466.ts
-
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png" group-title="Movie Central",Sky Greats
-http://supersonictv.live:8080/live/144264/661943/77467.ts
-
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Movie Central",Sky Premiere
-http://supersonictv.live:8080/live/144264/661943/77468.ts
-
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png" group-title="Movie Central",Sky Cinema Sci-Fi
-http://supersonictv.live:8080/live/144264/661943/77469.ts
-
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Movie Central",Sky Cinema Select
-http://supersonictv.live:8080/live/144264/661943/77470.ts
-
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Movie Central",Sky Thriller
-http://supersonictv.live:8080/live/144264/661943/77471.ts
-
 Vision
 ##############################################################################################################################################################################################################################################################################
 
@@ -748,6 +715,39 @@ https://jmp2.uk/sam-GB2600013BO.m3u8
 
 #EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo="" group-title="Rakuten TV",Rakuten Viki ᴴᴰ  
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8
+
+Sky Cinema
+##############################################################################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Movie Central",Sky Action
+http://supersonictv.live:8080/live/144264/661943/77462.ts
+
+#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Movie Central",Sky Comedy
+http://supersonictv.live:8080/live/144264/661943/77463.ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Movie Central",Sky Cinema Hits
+http://supersonictv.live:8080/live/144264/661943/77464.ts
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Movie Central",Sky Drama
+http://supersonictv.live:8080/live/144264/661943/77465.ts
+
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png" group-title="Movie Central",Sky Family
+http://supersonictv.live:8080/live/144264/661943/77466.ts
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png" group-title="Movie Central",Sky Greats
+http://supersonictv.live:8080/live/144264/661943/77467.ts
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Movie Central",Sky Premiere
+http://supersonictv.live:8080/live/144264/661943/77468.ts
+
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png" group-title="Movie Central",Sky Cinema Sci-Fi
+http://supersonictv.live:8080/live/144264/661943/77469.ts
+
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Movie Central",Sky Cinema Select
+http://supersonictv.live:8080/live/144264/661943/77470.ts
+
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Movie Central",Sky Thriller
+http://supersonictv.live:8080/live/144264/661943/77471.ts
 
 Sky Store
 ##############################################################################################################################################################################################################################################################################
@@ -2107,78 +2107,3 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cbfc1b59-
 #KODIPROP:inputstream.adaptive.license_key=edb936d4bce718c67da95c5958bc6010:917975e1fac313e63a89dc7680326d02
 #EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="", 17 Puasa
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd
-
-############################################################################################################################################################################################################################
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GTMPLIYj63WBlNDX2B+nRA", "kid":"k7o14XNij182EE1DnQ56EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TW1" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 1
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e24a4edc-4ece-510d-b5c6-c62c9d28f59d/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bgw3UiFtCGp7BpgvcVXbkA", "kid":"z4UeMGRnx+0FvHEeoKvTEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 2
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/419945e7-98b6-5e9e-86f3-8e1341ef23f3/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UPpAxWOBPH+PK4A6NHRM+w", "kid":"K1HZn4vynUTYc/EWNN/nEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 3
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1a213766-6dff-50c5-af14-8f74eb7750e6/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zDEF7ufBSKREvDZVtrAMaQ", "kid":"EJOEA20wcUve+Pk8tzsjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 4
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/81162152-3399-569e-9b9d-5b8287e973f8/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qZTdENOQm1kDhfnPsVOsOw", "kid":"x5f7HEVGt/fUALH1Zhe3EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 5
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/142ace2d-bdea-53d0-a998-76f309f52cc2/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2NPeKw4CvmtId5q3fgvLOA", "kid":"WN6HUZpJhtVF9baFHiIJEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 6
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/3f2b2ed3-1bbc-5d93-86a5-5542a7dcb890/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5o93jxBoA5D5VobiUiRz9Q", "kid":"MxDFi6XwK/s52UlABPHOEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 7
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e672bb82-984a-53f2-b08d-792f290abe3b/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3LF3HtUGdbjl/y8RDLaOg", "kid":"rJE2k9mYpPEcn4eDWiE7EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 8
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f7a21df0-13d2-528f-b9d5-224aee9d5dca/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h9dD8Qx79omg7TtBpozvcw", "kid":"HIFI49bIif4og8pgg+KgEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 9
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4bc15a35-e23e-5664-bd69-ac3787b936d8/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZzWhPhv3yp5uGTUJUW3q7g", "kid":"jyDAUsAzFCjKxvfmPKqHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 10
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f6447333-494c-5018-a02a-b01ba9a2453f/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mSILTp4wkTX2UD2HMZInAQ", "kid":"m/SKV8gpgA/ISxofBuYdEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 11
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/095f9686-f9f6-52fd-a0e4-09d3fc36897a/default_primary.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pCbBTNF2Gn4OVsqkyjl5Ng", "kid":"JxyB7JqBddQ9tFogzmN8EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 12
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/651cb142-7b54-53d5-af18-54bbebc138f1/default_primary.mpd
-
