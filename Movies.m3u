@@ -1,0 +1,339 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ",&flix  
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="ᴴᴰ",&privé  
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHURlafg8JSmECHohNOUw","k":"aAvjS0qckmR3GxmDsf3JnA"},{"kty":"oct","kid":"AQJZdTB7XAUB6HEDAHSqzg","k":"sBBTAsuuI9lRvrEmkAVlNg"},{"kty":"oct","kid":"AQBGyruYoH5M3wnD77PBIQ","k":"GbD4P1ZiDyfxV5qB2-bIjQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="052" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Hbozone.png" group-title="ᴴᴰ",HBO Zone
+https://gcp.live.na.prd.media.max.com/live/use1/e91_CixhY2EwNjZmYi05OGJiLTU3NmItYjg2YS0zZDRhZmVkN2ZiOGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/fallback.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png" group-logo="" group-logo="" group-title="ᴴᴰ",Max Stream
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="ᴴᴰ",Miramax Movies Channel 
+https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="ᴴᴰ",MN+ 
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#####https://starshare.live:443/live/Winston123/Winston123/98847.ts
+#####https://starshare.live:443/live/star123/star123/178.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="ᴴᴰ",MNX
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#####https://starshare.live:443/live/star123/star123/191.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="ᴴᴰ",Movies Now
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="ᴴᴰ",MovieSphere By Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="ᴴᴰ",Sony Pix
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="ᴴᴰ",Star Movies
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
+
+#####EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-title="ᴴᴰ",Star Movies Select
+#####http://119.152.240.15:8001/play/a0i1/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioPremiere.png" group-title="ᴴᴰ",Universal Premiere ᵒᵗᵗ
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="Studio.Universal.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioUniversal.png" group-logo="" group-logo="" group-title="ᴴᴰ",Studio Universal
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+#EXTINF:-1 tvg-id="Tapmovies Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="ᴴᴰ",Tap Movies
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+#EXTINF:-1 tvg-id="Tapactionflix Hd.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqmQyNNz--w-zNPAVx8fJLWG1xYahFiohWA&s" group-title="ᴴᴰ",Tap Action Flix
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+#EXTINF:-1 tvg-id="USBD700016JY" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Dove.png" group-logo="" group-logo="" group-title="ᴴᴰ",Dove 
+https://raw.githubusercontent.com/mystery75/m3u8/main/DOVE.m3u8
+
+#EXTINF:-1 tvg-id="USBC24000223S" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonMystery.png" group-logo="" group-logo="" group-title="ᴴᴰ",ion Mystery
+https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
+
+#EXTINF:-1 tvg-id="USBD300003LK" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonPlus.png" group-logo="" group-logo="" group-title="ᴴᴰ",ion Plus
+https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
+#####https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBD2500012DH" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/EbonyByLionsgate.png" group-logo="" group-title="ᴴᴰ",Ebony by Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/EBONY.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-logo="" group-title="ᴴᴰ",HerSphere by Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
+
+#EXTINF:-1 tvg-id="USBD1200007FE" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/OuterSphereByLionsgate.png" group-logo="" group-title="ᴴᴰ",OuterSphere by Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+#EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Aniplus.png" group-title="ᴴᴰ",Aniplus 
+https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+
+#EXTINF:-1 tvg-id="ROCKAction.id" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png",Rock Action HD*
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
+
+##############################################################################################################################################################################################################################################################################
+                                                                                                                                    Sky Cinema
+##############################################################################################################################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Sky Cinema",Sky Cinema Action
+http://supersonictv.live:8080/live/144264/661943/77462.ts
+
+#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Sky Cinema",Sky Cinema Comedy
+http://supersonictv.live:8080/live/144264/661943/77463.ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Sky Cinema",Sky Cinema Hits
+http://supersonictv.live:8080/live/144264/661943/77464.ts
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Sky Cinema",Sky Cinema Drama
+http://supersonictv.live:8080/live/144264/661943/77465.ts
+
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sky_Cinema_Family_%28alternative%29.svg/revision/latest/scale-to-width-down/1000?cb=20220502203843" group-title="Sky Cinema",Sky Cinema Family
+http://supersonictv.live:8080/live/144264/661943/77466.ts
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Sky_Cinema_Greats_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20200918051036" group-title="Sky Cinema",Sky Cinema Greats
+http://supersonictv.live:8080/live/144264/661943/77467.ts
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Sky Cinema",Sky Cinema Premiere
+http://supersonictv.live:8080/live/144264/661943/77468.ts
+
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/dc/Sky_Cinema_Sci-Fi_Horror_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20201028120857" group-title="Sky Cinema",Sky Cinema ScFi
+http://supersonictv.live:8080/live/144264/661943/77469.ts
+
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Sky Cinema",Sky Cinema Select
+http://supersonictv.live:8080/live/144264/661943/77470.ts
+
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Sky Cinema",Sky Cinema Thriller
+http://supersonictv.live:8080/live/144264/661943/77471.ts
+
+#EXTM3U
+
+=VOD LATEST=
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg" ,A Minecraft Movie
+https://vod.fix33627.workers.dev/0:/A.Minecraft.Movie.2025.SubsIndo.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Captain America: Brave New World
+https://atituttaaadf3k.nuratiqh7.workers.dev/0:/Ca.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFkMjE4NjQtZTVmZS00MDZjLWE2ZmEtZTkzODljNjhlNWUxXkEyXkFqcGc@._V1_.jpg" ,Red One
+https://masam20.com/IRWAN/1/A0329.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTVhN2Y4NDAtYjFmMC00YjI3LTgyMTctYmNmZDhjZmU0MGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Salem's Lot
+https://may24vod.fixtv.xyz/api/raw/?path=/Salems.Lot.2024.720p.WEB-DL.MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg" ,Longlegs
+https://may24vod.fixtv.xyz/api/raw/?path=/Longlegs.2024.720p.WEB-DL.EngSub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" ,Deadpool & Wolverine
+https://may24vod.fixtv.xyz/api/raw/?path=/Deadpool_Wolverine_2024_1080p_HDTS_MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" ,The Killer
+https://may24vod.fixtv.xyz/api/raw/?path=/The.Killer.2024.1080p.WEB-DL.MalaySub.bymovieclubmy.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg" ,Rebel Ridge
+https://may24vod.fixtv.xyz/api/raw/?path=/Rebel.Ridge.2024.720p.WEB-DL.MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/og1FteMFRInoQnlZeWqEn8XpXHh.jpg" ,The Deliverance
+https://may24vod.fixtv.xyz/api/raw/?path=/The.Deliverance.2024.720p.WEB-DL.MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwoaKYVqPgYemFpaANL941EF94R.jpg" ,Trap
+https://may24vod.fixtv.xyz/api/raw/?path=/Trap.2024.720p.WEB-DL.MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" ,Twisters
+https://may24vod.fixtv.xyz/api/raw/?path=/Twisters.2024.720p.WEBDL.MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thI9pM7Qu43f42sOOl5wy75UAo.jpg" ,The Instigators
+https://may24vod.fixtv.xyz/api/raw/?path=/The.Instigators.2024.720p.WEB-DL.MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",Die Hard
+https://vod14x14x.fixtv.xyz/api/raw/?path=/Die.Hard.1.1988.subsmalay.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMzYzk3ZTEtZDg0My00MTY5LWE3ZmQtYzNhYjhjN2RhZGRjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",Die Hard 2
+https://vod14x14x.fixtv.xyz/api/raw/?path=/Die.Hard.2.1990.subsmalay.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Die_Hard_With_A_Vengance.jpg",Die Hard 3: With a Vengeance
+https://vod14x14x.fixtv.xyz/api/raw/?path=/Die.Hard.3.With.a.Vengeance.1995.subsmalay.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQxMDE1OTg4NV5BMl5BanBnXkFtZTcwMTMzOTQzMw@@._V1_.jpg",Die Hard 4: Live Free or Die Hard
+https://vod14x14x.fixtv.xyz/api/raw/?path=/Die.Hard.2007.subsmalay.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_FMjpg_UX1000_.jpg",Die Hard 5: A Good Day to Die Hard
+https://vod14x14x.fixtv.xyz/api/raw/?path=/A.Good.Day.to.Die.Hard.2013.malaysub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGZmODU3ZDEtMjQwZC00NTA5LThmNWYtYzk5MmY5ZmM4NGIxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",A Quiet Place: Day One
+https://may24vod.fixtv.xyz/api/raw/?path=/A.Quiet.Place.Day.One.2024.720p.WEB-DL.MalaySubs.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhMTBlN2QtMWJmOS00OTliLWEwZTUtZjI3NWM2NjdmZjI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",My Spy: The Eternal City
+https://may24vod.fixtv.xyz/api/raw/?path=/My_Spy_The_Eternal_City_2024_720p_WEB_DL_MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA1Yjc2M2EtYjcyYy00Njc3LTg5NDktNDMyNDE5OTVmMjNkXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",My Spy
+https://may24vod.fixtv.xyz/api/raw/?path=/My.Spy.2020.720p.BluRay.MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",Bad Boys: Ride or Die
+https://may24vod.fixtv.xyz/api/raw/?path=/Bad.Boys.Ride.or.Die.2024.720p.WEB-DL.MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU1M2QxMzgtZmJiYy00Zjc4LTg3YTMtZTBmZmNhMDMxZmU2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",Beverly Hills Cop
+https://durian138.guardno102.workers.dev/0:/Beverly%20Hills%20Cop%201984.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQzY2Y0N2ItNzQ5Yy00OTA0LWJkZTItZGJhZTM3YzI1MjczXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg",Beverly Hills Cop 2
+https://durian138.guardno102.workers.dev/0:/Beverly%20Hills%20Cop%20II%201987.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjNhYWQ2ZDEtOGIzZC00ZDZlLWIxZDgtZjZmODRjMTc3OGZmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",Beverly Hills Cop 3
+https://durian138.guardno102.workers.dev/0:/Beverly%20Hills%20Cop%20III%201994.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Beverly_hills_cop_axel_foley_xxlg.jpg/220px-Beverly_hills_cop_axel_foley_xxlg.jpg",Beverly Hills Cop: Axel F
+https://may24vod.fixtv.xyz/api/raw/?path=/Beverly_Hills_Cop_Axel_F_2024_720p_WEB_DL_MalaySub.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://static2.tribute.ca/poster/160x236/kill-178823.jpg" ,Kill
+https://may24vod.fixtv.xyz/api/raw/?path=/Kill.2024.1080p.AMZN.WEB-DL.DDP.5.1.H265-ABE.mkv
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGFcgItMOZzuqlcR0ngwUWBvM9W.jpg" ,Maharaja
+https://may24vod.fixtv.xyz/api/raw/?path=/Maharaja.2024.TAMIL.1080p.REPACK.NF.WEB-DL.DDP5.1.H264-ABE.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Fighter_film_teaser.jpg" group-title="Latest",Fighter
+https://smkchaah-my.sharepoint.com/:v:/g/personal/barisan2023_keepnsave_com/EZ9oSJNxGSVNjUmIwWGkZGwBToNCMVQDAA4CWl311jGHYQ?download=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJkY2Q4NmYtOGRlMi00YTg5LWE2ZmQtY2NkYzk3YTRmNWZlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg" group-title="Latest",Madame Web
+https://vod16mac24.fixtv.xyz/api/raw/?path=/Madame.Web.2024.720p.WEBDL.EngSub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNiOGUzOTgtNjljMy00NmIxLTg1NzEtYzIyMDQ4ZmU0YWZkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="Latest",Anweshippin Kandethum
+https://vod16mac24.fixtv.xyz/api/raw/?path=/Anweshippin_Kandethum_2024_MALAYALAM_720p_WEB_DL_malaysub_mysm.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPRb1mbVHGop0egQ7153y0lhzGL.jpg" group-title="Latest",Dunki
+https://smkchaah-my.sharepoint.com/:v:/g/personal/barisan2023_keepnsave_com/ESPBWq5d-7BHonEwyehGZf0BVyN67O-vpTWMB26GH3LhgA?download=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://posterspy.com/wp-content/uploads/2024/01/The-Beekeeper-2.jpg" group-title="Latest",Beekeeper
+https://vod15x15.fixtv.xyz/api/raw/?path=/The.Beekeeper.2024.720p.WEBDL.MalaySub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxM2FiYjctYjliYy00NjY2LWFmOTEtMWZiYWRjNjA4MGYxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="Latest",Aquaman & The Lost Kingdom
+https://pksu.poksu2024.workers.dev/download.aspx?file=3OtGswzg5RnNEchu4no9QtXD2I2Rvdk%2BRuNiNaCOjswzYDCJq3ACBms8o57%2B0bzy&expiry=u9%2FihmdXIXiwkJrFZmNMeQ%3D%3D&mac=35d4cf52366ed630de40b087df2d0fd8b3430967eb1353df17b88655f5d2b178
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/8j7Qnegy40bscZUx2zJohkonaty.jpg" group-title="Latest",The Marvels
+https://smkchaah-my.sharepoint.com/:v:/g/personal/barisan2023_keepnsave_com/EWuJ8Iw3kxlAsMw7gwLEuxQBcsRmgwJ55E0_eYCQ3REquw?download=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/zmZVjtSRNxEVNAJ18fOgLLNds7I.jpg" group-title="Latest",Leave The World Behind
+https://vod14x14x.fixtv.xyz/api/raw/?path=/Leave.the.World.Behind.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-ABE.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM2ZGU1NGUtNjhiYy00YzEwLWE0MDctNGRlZmZiY2E5ZTY0XkEyXkFqcGdeQXVyMjI0NjI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Latest",Freelance
+https://vod13x13x.fixtv.xyz/api/raw/?path=/Freelance.2023.720p.WEBDL.MalaySub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg" group-title="Latest",Jawan
+https://vod12x12x.vercel.app/api/raw/?path=/Jawan.2023.SubsMalay.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" group-title="Latest",Gran Turismo
+https://smkchaah-my.sharepoint.com/:v:/g/personal/barisan2023_keepnsave_com/ERS_uOy8rSVLl5aZNmfN_UMBCmGSq8g__LyyM6L0QGvwgQ?download=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg" group-title="Latest",Retribution
+https://vod9.fixtv.xyz/api/raw/?path=/Retribution.2023.720p.WEBDL.EngSub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.ebayimg.com/images/g/hB0AAOSwB01kZhhD/s-l1600.jpg" group-title="Latest",Mission Impossible: Dead Reckoning
+https://vod11x11.fixtv.xyz/api/raw/?path=/Mission_Impossible_Dead_Reckoning_Part_One_2023_720p.mp4
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun II
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EoQ3gaI4KFyBHcxaNxXjRA","kid":"5AY+g4glbuq9L079rnrt0w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041163X0-portrait.jpg",Transformers: Rise Of The Beasts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08a2cb77aee4f2ac04ecd63960968ff5:53297eef65dfb04b4efce81dfbafb850
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454aafd940521074e79d0c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041229X0-portrait.jpg",The Super Mario Bros. Movie
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccf4698050003d7e0e1b7695a6454f7f:b9865f7d2152b176ac241166517e4aec
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6566fd56d940521074eac1e7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041082X0-portrait.jpg",Cocaine Bear
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02f26648b3f951a7fdef85f737299e6a:aea7f4643c7b98d76fcae03e198dec1b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65452a2cd940521074e799ca_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041047X0-portrait.jpg",Knock At The Cabin
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f432456c5e58e45013d1ba2ea0f860e:6df575acb28196ecdaba6d55bff7e852
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6545177fd940521074e797ec_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041270X0-portrait.jpg",When You Finish Saving The World
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2bf82e3adcb49f58faebb28ee1e3df7:16c705cbb4a9cc307836aa1faa937729
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6545601ad940521074e79f3b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041489X0-portrait.jpg",Blue Beetle
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kSv89eHQ1oS74h+4YC35Qg","kid":"nBRyYcF3lZ7W3rr3Brb6ng"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654c47b5d940521074e844b6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041488X0-portrait.jpg",Barbie
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=023a803caa6448dbf92b7e035e1ea850:bc1f5be5278a6c2096b2616b35ef309b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6570447ed940521074eba258_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NC5VdJ6e9bV8k3H8TACBMg","kid":"pyRO16VnjVITBnLEs89RTg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040975X0-portrait.jpg",The Flash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BfXCSAXC+rkn2WV1vcICNw","kid":"OCjfpHTsu4asbjqbNwq93g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040442X0-portrait.jpg",Shazam! Fury Of The Gods
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/b1xu1FkAJuh+SS7kbvFIQ","kid":"Fwu5ETnW3lY2WLtJAtuUkg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64532a79d940521074d0e71b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040640X0-portrait.jpg",Scream VI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lilTsw7SgcW0DsoAeEZt8A","kid":"Zxo/x7Vdy1b4xm7Y6q0UHg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012e17d940521074e137bd_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040899X0-portrait.jpg",Evil Dead Rise
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mHyzZBIbiqyI1tM1RMlSaw","kid":"kiHI5nx1bwlPRUICQthWDg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Latest" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040904X0-portrait.jpg",M3Gan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nob7hUX5wapVXHyb7gJ0cQ","kid":"hldqEDRUocJsc5ouqLKziw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012f6fd940521074e137e1_hbovodhd/dash0/MYS_DOLBY_index.mpd
