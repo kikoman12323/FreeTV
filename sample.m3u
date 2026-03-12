@@ -1,4 +1,241 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="",À2Z
+http://trilo.tv/live/Eden1/123456789/368076.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="",ABC Australia
+http://trilo.tv/live/Eden1/123456789/368068.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Al Jazeera
+http://trilo.tv/live/Eden1/123456789/368077.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Animal Planet
+http://trilo.tv/live/Eden1/123456789/368078.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Animax
 http://lordstreams.live:80/live/twizzler/twizzler/705900.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Arirang TV World
+http://trilo.tv/live/Eden1/123456789/368079.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Asian Food Network
+http://trilo.tv/live/Eden1/123456789/368067.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", AXN
+http://trilo.tv/live/Eden1/123456789/368064.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", BBC Earth HD
+http://magictv.us:80/live/8964476/3pUJreUXUW/150964.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", BBC News
+http://magictv.us:80/live/8964476/3pUJreUXUW/150965.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Bilyonaryo News Channel
+http://trilo.tv/live/Eden1/123456789/368074.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Bloomberg
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:00:1C:6F&stream=837524&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", BuKo	
+http://trilo.tv/live/Eden1/123456789/368082.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Cartoon Network HD	
+http://trilo.tv/live/Eden1/123456789/368063.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", CCTV4	
+http://trilo.tv/live/Eden1/123456789/368086.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Celestial Movies Pinoy	
+http://trilo.tv/live/Eden1/123456789/368109.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", CGTN English	
+http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:B6:53:9B&stream=2033867&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Channel News Asia
+http://trilo.tv/live/Eden1/123456789/368056.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Cinemax HD	
+http://trilo.tv/live/Eden1/123456789/368036.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", CNN HD	
+http://trilo.tv/live/Eden1/123456789/368117.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Crime + Investigation	
+http://trilo.tv/live/Eden1/123456789/368087.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", DepEd TV	
+http://trilo.tv/live/Eden1/123456789/368088.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Discovery Channel	
+http://trilo.tv/live/Eden1/123456789/368055.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", DreamWorks (Tagalized)	
+http://trilo.tv:80/live/Eden1/123456789/368123.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", DreamWorks (English) HD	
+http://trilo.tv:80/live/Eden1/123456789/368089.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Fashion TV HD	
+http://trilo.tv/live/Eden1/123456789/368091.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Food Network HD	
+http://trilo.tv/live/Eden1/123456789/368127.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Framce 24	
+http://trilo.tv/live/Eden1/123456789/368118.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Global Trekker	
+http://trilo.tv/live/Eden1/123456789/368132.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", HBO Family HD	
+http://trilo.tv:80/live/Eden1/123456789/368122.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", HBO HD	
+http://trilo.tv:80/live/Eden1/123456789/368119.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", HBO Hits HD	
+http://trilo.tv/live/Eden1/123456789/368121.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", HBO Signature HD	
+http://trilo.tv/live/Eden1/123456789/368120.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", History HD	
+http://trilo.tv/live/Eden1/123456789/368092.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", HGTV HD	
+http://trilo.tv/live/Eden1/123456789/368052.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Hits HD	
+http://trilo.tv/live/Eden1/123456789/368093.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Hits Movies	
+http://trilo.tv/live/Eden1/123456789/368049.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Hits Now	
+http://trilo.tv/live/Eden1/123456789/368124.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", IBC 13	
+http://trilo.tv/live/Eden1/123456789/368053.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Kapatid Channel	
+http://magictv.us:80/live/8964476/3pUJreUXUW/151013.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", KBS World	
+http://trilo.tv/live/Eden1/123456789/368045.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", KIX HD	
+http://trilo.tv/live/Eden1/123456789/368095.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Knowledge Channel	
+http://trilo.tv/live/Eden1/123456789/368044.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Lifetime	
+http://trilo.tv/live/Eden1/123456789/368125.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Lotus Macau	
+http://trilo.tv/live/Eden1/123456789/368080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Moonbug	
+http://trilo.tv/live/Eden1/123456789/368096.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", NBA TV Philippines HD	
+http://trilo.tv/live/Eden1/123456789/368022.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", NHK World Japan	
+http://trilo.tv/live/Eden1/123456789/368098.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Nick Jr.	
+http://trilo.tv:80/live/Eden1/123456789/368099.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Nickelodeon	
+http://trilo.tv:80/live/Eden1/123456789/368038.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", One News HD	
+http://trilo.tv:80/live/Eden1/123456789/368101.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", One PH	
+http://trilo.tv:80/live/Eden1/123456789/368037.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", One Sports HD	
+http://trilo.tv/live/Eden1/123456789/368054.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", One Sports+	
+http://trilo.tv/live/Eden1/123456789/368100.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", PBA Rush HD	
+http://trilo.tv/live/Eden1/123456789/368075.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Pinoy Box Office	
+http://lordstreams.live/live/twizzler/twizzler/705810.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Premier Sports HD	
+http://trilo.tv/live/Eden1/123456789/368107.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Premier Sports 2 HD	
+http://trilo.tv:80/live/Eden1/123456789/368104.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", PTV 4	
+http://trilo.tv:80/live/Eden1/123456789/368032.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Rock Action	
+http://trilo.tv:80/live/Eden1/123456789/368105.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Rock Entertainment	
+http://trilo.tv:80/live/Eden1/123456789/368105.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", RPTV HD	
+http://trilo.tv:80/live/Eden1/123456789/368035.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Sari-Sari	
+http://trilo.tv:80/live/Eden1/123456789/368030.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", SPOTV HD	
+http://trilo.tv:80/live/Eden1/123456789/368130.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", SPOTV2 HD	
+http://trilo.tv:80/live/Eden1/123456789/368131.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Tagalized Movie Channel	
+http://trilo.tv:80/live/Eden1/123456789/368083.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Tap Movies HD	
+http://trilo.tv:80/live/Eden1/123456789/368106.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Tap Spprts	
+http://trilo.tv:80/live/Eden1/123456789/368111.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Thrill SD	
+http://trilo.tv:80/live/Eden1/123456789/368031.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Travel Channel	
+http://trilo.tv:80/live/Eden1/123456789/368021.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", True FM TV	
+http://trilo.tv:80/live/Eden1/123456789/368129.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", TV5 HD	
+http://trilo.tv:80/live/Eden1/123456789/368108.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", TV5 Monde	
+http://trilo.tv:80/live/Eden1/123456789/368018.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", TV María	
+http://trilo.tv:80/live/Eden1/123456789/368128.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", tvN Movies Pinoy	
+http://trilo.tv:80/live/Eden1/123456789/368062.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", tvN Premium HD	
+http://trilo.tv:80/live/Eden1/123456789/368084.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", UAAP Varsity Channel HD	
+http://trilo.tv:80/live/Eden1/123456789/368112.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Viva Cinema	
+http://trilo.tv:80/live/Eden1/123456789/368017.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Warner TV HD	
+http://trilo.tv:80/live/Eden1/123456789/368114.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="", Wil TV	
+http://trilo.tv:80/live/Eden1/123456789/368020.m3u8
